@@ -1,2 +1,2 @@
-# tutorial_projects
+# Tutorial Projects
 Tutorial Projects to help others
